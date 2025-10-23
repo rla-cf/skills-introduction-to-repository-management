@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @rla-cf
+/src/backend/database.py      @rla-cf
+/src/backend/routers/auth.py  @rla-cf
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @rla-cf
